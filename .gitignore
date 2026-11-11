@@ -1,0 +1,21 @@
+# 本地 IDE 设置和虚拟环境
+.idea/
+.vscode/
+.venv/
+venv/
+
+# Python、测试和 Notebook 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# 原始 Notebook 留档和运行产物
+/notebooks/blue3.ipynb
+/output/
+
+# 系统生成文件
+Thumbs.db
+Desktop.ini
+.DS_Store
